@@ -18,61 +18,69 @@ I enjoy building practical applications, working with data, exploring AI technol
 
 ### 💻 Programming Languages
 
-- Python
-- Java
-- JavaScript
-- C
-- C++
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+</p>
 
 ### 🐍 Python Development
 
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Exception Handling
-- Modules & Packages
-- File Handling
-- Working with APIs
-- Data Processing & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Skills:**  
+Object-Oriented Programming (OOP) • Data Structures & Algorithms • Exception Handling • Modules & Packages • File Handling • API Integration • Data Processing & Automation
 
 ### 🗄️ Databases & SQL
 
-- SQL
-- MySQL
-- PostgreSQL
-- Database Design
-- Relational Databases
-- Joins
-- Common Table Expressions (CTEs)
-- Window Functions
-- Indexing
-- Query Optimization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+**Skills:**  
+SQL • Database Design • Relational Databases • Joins • Common Table Expressions (CTEs) • Window Functions • Indexing • Query Optimization
 
 ### 📊 Data Analysis & Visualization
 
-- Pandas
-- NumPy
-- Matplotlib
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Libraries & Skills:**  
+Pandas • NumPy • Matplotlib • Data Cleaning • Data Preprocessing • Exploratory Data Analysis (EDA)
 
 ### 🤖 AI / Machine Learning
 
-- Machine Learning
-- Natural Language Processing (NLP)
-- Deep Learning Fundamentals
-- BERT
-- CNN
-- AI-assisted Application Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Skills:**  
+Machine Learning • Natural Language Processing (NLP) • Deep Learning Fundamentals • BERT • CNN • AI-assisted Application Development
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
+
+### 🔥 Backend, Cloud & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,gcp" />
+</p>
+
+**Technologies:**  
+Firebase • Cloud Firestore • Google Cloud Run
 
 ### 🔧 Developer Tools & Platforms
 
-- Git
-- GitHub
-- Jupyter Notebook
-- Google Colab
-- PyCharm
-- Visual Studio Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
+</p>
+
+**Tools:**  
+Git • GitHub • Jupyter Notebook • Google Colab • PyCharm • Visual Studio Code
 
 ### 📑 Microsoft Office
 
@@ -103,7 +111,8 @@ A modern tutoring and student management platform designed to help tutors and gu
 - 📱 Responsive user interface
 - ☁️ Cloud deployment
 
-**Tech Stack:** React • TypeScript • Vite • Tailwind CSS • Firebase • Firestore • Recharts • Google Cloud Run
+**Tech Stack:**  
+React • TypeScript • Vite • Tailwind CSS • Firebase • Firestore • Recharts • Google Cloud Run
 
 🔗 [View Repository](https://github.com/Apurba213/guardian-tutor-app)
 
@@ -124,7 +133,8 @@ A full-featured web application designed to simplify home tutoring management by
 - 📄 PDF attendance and payment reports
 - 📱 Responsive design for desktop and mobile
 
-**Tech Stack:** React • Vite • Tailwind CSS • Firebase • Firestore • React Router • jsPDF
+**Tech Stack:**  
+React • Vite • Tailwind CSS • Firebase • Firestore • React Router • jsPDF
 
 🔗 [View Repository](https://github.com/Apurba213/Tutor-app)
 
@@ -169,6 +179,15 @@ My goal is to build reliable, scalable, and data-driven software solutions while
 ---
 
 ## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/apurba-barua-a1b79a188/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Apurba213">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 - 💼 LinkedIn: [Apurba Barua](https://www.linkedin.com/in/apurba-barua-a1b79a188/)
 - 💻 GitHub: [@Apurba213](https://github.com/Apurba213)
