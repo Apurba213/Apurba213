@@ -2,7 +2,7 @@
 
 ### Computer Science & Engineering Student | Aspiring Data Engineer | AI/ML Enthusiast
 
-I'm a Computer Science and Engineering student at **International Islamic University Chittagong (IIUC)** with a strong interest in **Data Engineering, Python development, SQL, Artificial Intelligence, and Machine Learning**.
+I'm a Computer Science and Engineering student at **International Islamic University Chittagong (IIUC)** with a strong interest in **Data Engineering, SQL, Artificial Intelligence, and Machine Learning**.
 
 I enjoy building practical applications, working with data, exploring AI technologies, and continuously improving my software engineering skills through hands-on projects.
 
